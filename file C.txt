@@ -1,2 +1,1 @@
 This is file C
-squash merge in file C
