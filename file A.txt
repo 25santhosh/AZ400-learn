@@ -1,2 +1,3 @@
 this is file A
 this is a change in the file
+squash merge
