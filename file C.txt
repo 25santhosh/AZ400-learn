@@ -1,1 +1,2 @@
 This is file C
+change for the merge in both branch
