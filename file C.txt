@@ -1,3 +1,2 @@
 This is file C
-change for the merge in both branch
-squash merge
+squash merge in file C
