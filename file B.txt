@@ -1,1 +1,3 @@
 This is file B
+change for file c in dev 
+squash merge
