@@ -1,2 +1,7 @@
 This is file B
+<<<<<<< HEAD
 there is a change
+=======
+change for file c in dev 
+squash merge
+>>>>>>> dev
